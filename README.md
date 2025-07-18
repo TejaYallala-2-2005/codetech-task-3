@@ -106,3 +106,8 @@ OUTPUT-3.jpg: Training and validation accuracy/loss plot
 OUTPUT3.JPG: Model performance on test set          
 
 README.md: Project description (this file)
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/095b6f2a-75cf-4c10-9a7a-9d520793be07)
+
+![Image](https://github.com/user-attachments/assets/0ed627d5-4b49-4d7e-ada2-7dea56010d5c)
